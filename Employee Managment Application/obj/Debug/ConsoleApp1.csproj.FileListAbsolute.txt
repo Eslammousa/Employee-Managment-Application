@@ -1,0 +1,7 @@
+D:\Employee Managment Application\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Employee Managment Application\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Employee Managment Application\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Employee Managment Application\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Employee Managment Application\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Employee Managment Application\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Employee Managment Application\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
